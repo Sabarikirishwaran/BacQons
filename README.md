@@ -3,6 +3,10 @@
 
 We introduce a novel approach to chemical design by implementing a Quantum Bayesian Optimization (QBO) method, enhancing the data-driven continuous representation of molecules. Leveraging the foundation of traditional BO used for exploring chemical spaces, our QBO framework integrates quantum computing principles to refine the optimization process. This project demonstrates the potential of quantum computing in chemical design, promising to expedite the discovery of new, functional compounds with applications in drug development and materials science.
 
+<p align="center">
+<img src="infographic(2).png" width=500px>
+</p>
+
 References:
 
 [1] Gómez-Bombarelli, R., Wei, J. N., Duvenaud, D., Hernández-Lobato, J. M., Sánchez-Lengeling, B., Sheberla, D., … & Aspuru-Guzik, A. (2018). Automatic chemical design using a data-driven continuous representation of molecules. ACS central science, 4(2), 268-276.
